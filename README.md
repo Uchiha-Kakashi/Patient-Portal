@@ -1,6 +1,6 @@
 # Patient-Portal
 
-For the database storage use any server like wampserver
+For the database storage use any server like wampserver.
 Save the folder named "hms" in wamp64/www/ if you are using wamp server in windows.
 
 Later go to PHPMyAdmin of the localhost and open index.php using the file location on your browser.
